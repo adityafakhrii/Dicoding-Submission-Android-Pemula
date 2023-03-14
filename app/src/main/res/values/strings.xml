@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Premier League Stadium</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Aditya Fakhri Riansyah</string>
+    <string name="email">adityafakhri03@gmail.com</string>
+    <string name="title_about">Android Developer</string>
+
+    <string name="stadium_name">Stadium Name</string>
+    <string name="description">Description: </string>
+    <string name="team">Team: </string>
+    <string name="capacity">Capacity: </string>
+    <string name="object_received">Objek Diterima</string>
+    <string name="contact_me">Contact me:</string>
+    <string name="share">SHARE</string>
+
+
+    <string-array name="data_name">
+        <item>Stamford Bridge</item>
+        <item>Emirates Stadium</item>
+        <item>Anfield</item>
+        <item>Old Trafford</item>
+        <item>Etihad Stadium</item>
+        <item>Goodison Park</item>
+        <item>Tottenham Hotspur Stadium</item>
+        <item>Villa Park</item>
+        <item>London Stadium</item>
+        <item>King Power Stadium</item>
+        <item>Molineux Stadium</item>
+        <item>Elland Road</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Stamford Bridge is a football stadium in Fulham, adjacent to the borough of Chelsea in West London. It is the home of Premier League club Chelsea. With a capacity of 40,341, it is the ninth largest venue of the 2022–23 Premier League season and the eleventh largest football stadium in England. Opened in 1877, the stadium was used by the London Athletic Club until 1905, when new owner Gus Mears founded Chelsea Football Club to occupy the ground; Chelsea have played their home games there ever since. It has undergone major changes over the years, most recently in the 1990s when it was renovated into a modern, all-seater stadium.</item>
+        <item>The Emirates Stadium (known as Arsenal Stadium for UEFA competitions) is a football stadium in Holloway, London, England. It has been the home stadium of Arsenal Football Club since its completion in 2006. It has a current seated capacity of 60,704, making it the fifth-largest football stadium in England by capacity. In 1997, Arsenal explored the possibility of relocating to a new stadium, having been denied planning permission by Islington Council to expand its home stadium, Highbury. After considering various options (including purchasing Wembley Stadium), the club bought an industrial and waste disposal estate in Ashburton Grove in 2000. A year later, they received the council\'s approval to build a stadium on the site; manager Arsène Wenger described this as the "biggest decision in Arsenal\'s history" since the board appointed Herbert Chapman. Relocation began in 2002, but financial difficulties delayed work until 2004. Emirates was later announced as the main sponsor for the stadium. </item>
+        <item>Anfield is a football stadium in Anfield, Liverpool, Merseyside, England, which has a seating capacity of 53,394, making it the seventh largest football stadium in England. It has been the home of Liverpool F.C. since their formation in 1892. It was originally the home of Everton from 1884 to 1891, before they moved to Goodison Park after a dispute with the club president. The stadium has four stands: the Spion Kop, the Main Stand, the Sir Kenny Dalglish Stand and the Anfield Road End. The record attendance of 61,905 was set at a match between Liverpool and Wolverhampton Wanderers in 1952. The ground converted to an all-seater stadium in 1994 as a result of the Taylor Report, which reduced its capacity.</item>
+        <item>Old Trafford is a football stadium in Old Trafford, Greater Manchester, England, and the home of Manchester United. With a capacity of 74,310 it is the largest club football stadium (and second-largest football stadium overall after Wembley Stadium) in the United Kingdom, and the eleventh-largest in Europe. It is about 0.5 miles (800 m) from Old Trafford Cricket Ground and the adjacent tram stop.Nicknamed "The Theatre of Dreams" by Bobby Charlton, Old Trafford has been United\'s home ground since 1910, although from 1941 to 1949 the club shared Maine Road with local rivals Manchester City as a result of Second World War bomb damage. The stadium\'s record attendance was recorded in 1939, when 76,962 spectators watched the FA Cup semi-final between Wolverhampton Wanderers and Grimsby Town.</item>
+        <item>City of Manchester Stadium in Manchester, England, now named Etihad Stadium for sponsorship reasons, is a football stadium. The stadium has been used as the home ground of Manchester City football club since 2003. It was originally built as a venue for the 2002 Commonwealth Games. The stadium name changed to Etihad Stadium in July 2011 for sponsorship purposes. This stadium is the third largest stadium in the Premiere League and the fifth largest in England with a capacity of 55,097 seats. The first football match at this stadium was a friendly match between Manchester City and Barcelona on 10 August 2003. Manchester City won the match 2–1, and Nicolas Anelka scored the first goal at this stadium.</item>
+        <item>Goodison Park is a football stadium in the Walton area of Liverpool, England, 2 miles (3 km) north of the city centre. It has been the home of Premier League club Everton F.C. since 1892 and has an all-seated capacity of 39,414. Goodison Park has hosted more top-flight games than any other stadium in England. It has also been the venue for an FA Cup Final and numerous international fixtures, including a semi-final match in the 1966 World Cup.</item>
+        <item>Tottenham Hotspur Stadium is the home of Premier League club Tottenham Hotspur in north London, replacing the clubs previous ground, White Hart Lane. With a seating capacity of 62,850, it is the third-largest football stadium in England and the largest club ground in London. It is designed to be a multi-purpose stadium and features the world\'s first dividing, retractable football pitch, which reveals a synthetic turf field underneath for NFL London Games, concerts and other events. The stadium opened on 3 April 2019 with a ceremony before the first Premier League game held there.</item>
+        <item>Villa Park is a football stadium in Aston, Birmingham, England, with a seating capacity of 42,682. It has been the home of Premier League side Aston Villa since 1897. The ground is less than a mile from both Witton and Aston railway stations and has hosted sixteen England internationals at senior level, the first in 1899 and the most recent in 2005. Villa Park has hosted 55 FA Cup semi-finals, more than any other stadium. In 1897, Aston Villa moved into the Aston Lower Grounds, a sports ground in a Victorian amusement park in the former grounds of Aston Hall, a Jacobean stately home. The stadium has gone through various stages of renovation and development, resulting in the current stand configuration of the Holte End, Trinity Road Stand, North Stand and Doug Ellis Stand.</item>
+        <item>London Stadium (formerly and also known as Olympic Stadium and the Stadium at Queen Elizabeth Olympic Park) is a multi-purpose outdoor stadium at Queen Elizabeth Olympic Park in the Stratford district of London. It is located in the Lower Lea Valley, 6 miles (10 km) east of central London. The stadium was constructed specifically for the 2012 Summer Olympics and 2012 Summer Paralympics, serving as the track-and-field venue and as the site of their opening and closing ceremonies. Following the Games, it was renovated for multi-purpose use, and it now serves primarily as the home of Premier League club West Ham United. Land preparation for the stadium began in mid-2007, with the construction officially starting on 22 May 2008. The stadium held its first public event in March 2012, serving as the finish line for a celebrity run organised by the National Lottery. Holding 80,000 for the Olympics and the Paralympics, it re-opened in July 2016 with 66,000 seats, but with capacity for football limited to 60,000 under the terms of the lease. The decision to make West Ham United the main tenants was controversial, with the initial tenancy process having to be rerun.</item>
+        <item>King Power Stadium (also known as the Leicester City Stadium due to UEFA sponsorship regulations and formerly known as the Walkers Stadium) is a football stadium in Leicester, England. It has been the home of Premier League club Leicester City since 2002 and has an all-seated capacity of 32,261. Since 2021, the stadium has also been the primary home of Leicester City Women. The stadium was officially opened by former Leicester striker Gary Lineker on 23 July 2002.</item>
+        <item>Molineux Stadium in Wolverhampton, West Midlands, England, has been the home ground of Premier League club Wolverhampton Wanderers since 1889. The first stadium built for use by a Football League club, it was one of the first British grounds to have floodlights installed and hosted some of the earliest European club games in the 1950s. At the time of its multi-million pound renovation in the early 1990s, Molineux was one of the biggest and most modern stadia in England, though it has since been eclipsed by other ground developments. The stadium has hosted England internationals and, more recently, England under-21 internationals, as well as the first UEFA Cup Final in 1972.</item>
+        <item>Elland Road is a football stadium in Beeston, Leeds, West Yorkshire, England, which has been the home of Premier League club Leeds United since the club\'s formation in 1919. The stadium is the 14th largest football stadium in England. The ground has hosted FA Cup semi-final matches as a neutral venue, and England international fixtures, and was selected as one of eight Euro 96 venues. Elland Road was used by rugby league club Hunslet in the mid-1980s and hosted two matches of the 2015 Rugby World Cup. The stadium has hosted concerts, including performances by bands such as Queen, U2, Happy Mondays and the Kaiser Chiefs.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/stamford_bridge</item>
+        <item>@drawable/emirates_stadium</item>
+        <item>@drawable/anfield</item>
+        <item>@drawable/old_trafford</item>
+        <item>@drawable/etihad_stadium</item>
+        <item>@drawable/goodison_park</item>
+        <item>@drawable/tottenham_hotspur_stadium</item>
+        <item>@drawable/villa_park</item>
+        <item>@drawable/london_stadium</item>
+        <item>@drawable/king_power</item>
+        <item>@drawable/molineux</item>
+        <item>@drawable/elland_road</item>
+    </integer-array>
+
+    <string-array name="data_team">
+        <item>Chelsea FC</item>
+        <item>Arsenal FC</item>
+        <item>Liverpool FC</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Everton FC</item>
+        <item>Tottenham Hotspur</item>
+        <item>Aston Villa</item>
+        <item>West Ham United</item>
+        <item>Leicester City</item>
+        <item>Wolverhampton Wanderers</item>
+        <item>Leeds United</item>
+    </string-array>
+
+    <integer-array name="data_capacity">
+        <item>40341</item>
+        <item>60704</item>
+        <item>54000</item>
+        <item>74310</item>
+        <item>53400</item>
+        <item>39572</item>
+        <item>62850</item>
+        <item>42640</item>
+        <item>66000</item>
+        <item>32261</item>
+        <item>32050</item>
+        <item>37890</item>
+    </integer-array>
+</resources>
